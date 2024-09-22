@@ -1,0 +1,21 @@
+{
+    "name": "lucky/account",
+    "require": {
+        "ext-pdo_mysql": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lucky\\Account\\": "src/app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Santosh kumar",
+            "email": "lucky1999mfp@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
