@@ -1,5 +1,5 @@
 {
-    "name": "lucky/account",
+    "name": "luckymfp/account",
     "require": {
         "ext-pdo_mysql": "*"
     },
