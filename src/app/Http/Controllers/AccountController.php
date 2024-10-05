@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucky\Account\Controller;
+namespace Lucky\Account\Http\Controller;
 
 class AccountController
 {
