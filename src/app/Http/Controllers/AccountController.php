@@ -4,7 +4,7 @@ namespace Lucky\Account\Http\Controllers;
 
 class AccountController
 {
-    public function intex()
+    public function index()
     {
         return "welcome";
     }
