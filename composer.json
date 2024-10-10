@@ -15,7 +15,7 @@
     "extra": {
       "laravel": {
           "providers": [
-              "Lucky\\Account\\Providers\\AccountProviders"
+              "Lucky\\Account\\Providers\\AccountProvider"
           ]
       }
   },
